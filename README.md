@@ -1,7 +1,7 @@
 [![RimWorld Alpha 16](https://img.shields.io/badge/RimWorld-Alpha 16-brightgreen.svg)](http://rimworldgame.com/)
 
 # Legacy Ark ADS Patch
-Compatibility patch to enable '**[Legacy Ark](http://steamcommunity.com/sharedfiles/filedetails/?id=857283007)**' surgeries for RimStarve animals.
+Compatibility patch to enable '**[A Dog Said...](https://github.com/kaptain-kavern/ADogSaid/releases)**' surgeries for Legacy Ark animals.
 
 ## Installation
 Drop the latest release into your `RimWorld/Mods` folder.
